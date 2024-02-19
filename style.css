@@ -49,6 +49,9 @@ table {
   font-size: 20px;
   font-weight: 600;
 }
+.paid {
+  color: rgb(3, 211, 3) !important;
+}
 .sub-heading {
   text-align: center;
 }
@@ -68,10 +71,9 @@ table {
 }
 
 .total {
-    text-transform: capitalize;
-    margin: 4% 2px;
-    background: #f8e704;
-    padding: 5% 2%;
-    font-size: 40px;
-
+  text-transform: capitalize;
+  margin: 4% 2px;
+  background: #f8e704;
+  padding: 5% 2%;
+  font-size: 40px;
 }
